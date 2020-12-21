@@ -21,7 +21,7 @@
  - how to get to Diamond
  - and some more...
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DWalz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DWalz&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DWalz/DWalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
