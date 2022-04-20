@@ -1,23 +1,22 @@
 ## DWalz | LoneWoIf | LoneLune
 
+### ✉️ How to reach me:
+ - Discord (Lone Lunatic#6001)
+
 ### 💻 I'm currently working on:
- - super special personal (private) projects
  - graduating Computer Science
- - a Forge tutorial over at GitLab
+ - some personal projects
  
  
 ### 🤖 I know:
  - Python
  - Java
- - JavaScript (including HTML + CSS)
- - C / C++
- - Ruby
+ - JavaScript & NodeJS (including React...)
+ - C / C++ / C# / .NET
  
 ### 🌱 I’m currently learning:
  - Django
- - React
  - ElectronJS
- - Ionic
  - how to get to Diamond
  - and some more...
 
