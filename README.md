@@ -1,7 +1,7 @@
 ## DWalz | LoneWoIf | LoneLune
 
 ### ✉️ How to reach me:
- - Discord (Lone Lunatic#6001)
+ - Discord (`Lone Lunatic#6001`)
 
 ### 💻 I'm currently working on:
  - graduating Computer Science
