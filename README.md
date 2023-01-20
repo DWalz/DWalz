@@ -1,26 +1,17 @@
-## DWalz | LoneWoIf | LoneLune
+## DWalz | LoneLune
 
 ### ✉️ How to reach me:
- - Discord (`Lone Lunatic#6001`)
-
-### 💻 I'm currently working on:
- - graduating Computer Science
- - some personal projects
+ - Discord (`Lone Lunatic#6001`
  
  
 ### 🤖 I know:
  - Python
  - Java
- - JavaScript & NodeJS (including React...)
+ - JavaScript & NodeJS
  - C / C++ / C# / .NET
  
 ### 🌱 I’m currently learning:
- - Django
- - ElectronJS
- - how to get to Diamond
- - and some more...
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DWalz&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ - Rust
 
 <!--
 **DWalz/DWalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
