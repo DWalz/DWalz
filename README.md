@@ -1,3 +1,3 @@
 ## DWalz | LoneLune
 
-Fixing a bad sleep habit.
+Fixing a bad sleeping habit.
