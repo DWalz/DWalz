@@ -1,3 +1,3 @@
 ## DWalz | LoneLune
 
-Fixing a bad sleeping habit.
+**Profile Picture**: [*Connection*](https://www.yuumeiart.com/#/connection/) by [Yuumei](https://www.yuumeiart.com/).
